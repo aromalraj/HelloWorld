@@ -1,3 +1,3 @@
 # HelloWorld
 
-This a helloworld commit!
+Removed first desc in first comment!
